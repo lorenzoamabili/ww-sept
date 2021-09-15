@@ -1,4 +1,4 @@
-data = read.csv("/Users/lorenzoamabili/Library/Mobile Documents/com~apple~CloudDocs/Job/job applications/Veramed/dataSept.csv", sep = ",")
+data = read.csv("./ww-sept/dataSept.csv", sep = ",")
 
 library(ggplot2)
 library(survminer)
